@@ -1,4 +1,4 @@
-###NPReceipt
+###NPReceiptVerification
 Drop-in Mac App Store Receipt Verification
 
 ###Installation
