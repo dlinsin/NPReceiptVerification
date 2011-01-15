@@ -1,7 +1,7 @@
 ###NPReceiptVerification
 Drop-in Mac App Store Receipt Verification
 
-By [http://twitter.com/nckplsn](Nick Paulson)
+By [Nick Paulson](http://twitter.com/nckplsn)
 
 ###Installation
 1. Add this file to your project
@@ -12,4 +12,4 @@ That's it!
 
 ###Thank You
 Thank you to roddi's ValidateStoreReceipts which I used as an example and some code from.
-That can be found [https://github.com/roddi/ValidateStoreReceipt](here)
+That can be found [here](https://github.com/roddi/ValidateStoreReceipt).
