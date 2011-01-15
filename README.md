@@ -13,3 +13,5 @@ That's it!
 ###Thank You
 Thank you to roddi's ValidateStoreReceipts which I used as an example and some code from.
 That can be found [here](https://github.com/roddi/ValidateStoreReceipt).
+
+Also, thank you to [Craig Hockenberry](http://twitter.com/chockenberry/status/26058093435559936) for his recommendation on making the app useless after exit(173).
