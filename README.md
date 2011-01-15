@@ -1,5 +1,6 @@
 ###NPReceiptVerification
 Drop-in Mac App Store Receipt Verification
+
 By [http://twitter.com/nckplsn](Nick Paulson)
 
 ###Installation
