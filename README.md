@@ -10,6 +10,10 @@ By [Nick Paulson](http://twitter.com/nckplsn)
 
 That's it!
 
+###License
+
+This code is released under the MIT License.  See LICENSE for more information.
+
 ###Thank You
 Thank you to roddi's ValidateStoreReceipts which I used as an example and some code from.
 That can be found [here](https://github.com/roddi/ValidateStoreReceipt).
