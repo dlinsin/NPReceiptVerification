@@ -7,6 +7,7 @@ By [Nick Paulson](http://twitter.com/nckplsn)
 1. Add this file to your project
 2. Change the values of kReceiptBundleVersion and kReceiptBundleIdentifier at the top of NPReceiptVerification.m to your own values.
 	These must be equivalent to CFBundleShortVersionString and CFBundleIdentifier, respectively. (These are found in your Info.plist file)
+3. Add libcrypto/Security and IOKit framework
 
 That's it!
 
